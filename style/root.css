@@ -1,0 +1,8 @@
+:root {
+    --main-color: #050d15;
+    --white-color: #fffffc;
+    --gray-color: #adb5bd;
+    --red-color: #ef233c;
+    --bg-color: #f3f3f3;
+    --transition: .3s ease-in-out;
+}

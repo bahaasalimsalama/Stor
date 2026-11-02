@@ -1,0 +1,31 @@
+@import "root.css";
+@import "reset.css";
+@import "globlestyle.css";
+@import "navbar.css";
+@import "banner.css";
+@import "product_section.css";
+@import "prodcut_card.css";
+@import "footer.css";
+@import "singleProduct.css";
+@import "shop.css";
+@import "cart.css";
+
+nav .container {}
+
+
+.toTop {
+    width: 2.5em;
+    height: 2.5em;
+    background-color: var(--main-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--white-color);
+    position: fixed;
+    bottom: 6em;
+    right: 1em;
+}
+
+.toTop i {
+    font-size: 1.2em;
+}
